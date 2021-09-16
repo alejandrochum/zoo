@@ -1,0 +1,18 @@
+html,
+body {
+    background-color: black;
+}
+
+.hero {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    background-image: url('./images/chameleon.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0px 0px 0px;
+    min-height: 550px;
+}
+
+.hero h1 {
+    font-size: 90px;
+}
