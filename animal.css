@@ -1,0 +1,26 @@
+html,
+body {
+    background-color: #F4AC45;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    color: white;
+}
+
+.title {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 50px;
+    margin: 30px 30px 20px 30px;
+}
+
+.info {
+    background-color: #DAD6D6;
+    padding: 40px 20px 30px 20px;
+}
